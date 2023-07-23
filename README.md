@@ -18,9 +18,9 @@ Realizado con: React Native sobre Expo y NativeWind.
 
 ## Muestras de pantalla resultado final
 
-1. Tema noche<br/>
+1. Uso de NativeWind<br/>
    ![Captura 1](https://github.com/AlexanderTemp/ReactNative_Practica1/blob/main/screenshot/sc_1.png)
-2. Tema día<br/>
+2. Diseño dinámico<br/>
    ![Captura 2](https://github.com/AlexanderTemp/ReactNative_Practica1/blob/main/screenshot/sc_2.png)
 
 ## Design disclaimer
